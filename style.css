@@ -1,0 +1,23 @@
+body {
+background-color: #1d1b1b;
+font-family: Arial;
+text-align: center;
+padding: 30px;
+overflow-x: hidden;
+}
+
+h1 {
+    color: #f64dd1;
+}
+
+a {
+  color: #f64dd1;  
+  text-decoration: solid;
+ font-size: 15px;
+}
+
+p {
+    color: antiquewhite;
+    font-family: Arial;
+    font-size: 20px;
+}
